@@ -42,11 +42,12 @@ fake-news-detection/
 ▶️ How to Run Locally
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 🌐 Live Demo
 
-🔗 
+🔗https://fake-news-detection-klqkewypcjeuwqbgmmvrte.streamlit.app/
 
 📌 Author
 
