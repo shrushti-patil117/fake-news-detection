@@ -5,28 +5,42 @@ A Machine Learning based web application that classifies news articles as Fake o
 🚀 Features
 
 ✅ Real-time fake news prediction
+
 ✅ TF-IDF text vectorization
+
 ✅ Trained ML classification model
+
 ✅ Interactive Streamlit UI
+
 ✅ Cloud deployment
 
 🛠️ Tech Stack
 
 Python
+
 Pandas
+
 Scikit-learn
+
 Streamlit
 
 📂 Project Structure
+
 fake-news-detection/
 │
+
 ├── app.py
+
 ├── model.pkl
+
 ├── vectorizer.pkl
+
 ├── requirements.txt
+
 └── README.md
 
 ▶️ How to Run Locally
+
 pip install -r requirements.txt
 streamlit run app.py
 
